@@ -1,7 +1,7 @@
 # Hi, I'm Maxime ! Welcome to my hub ! 👋
-*** I'm looking for an internship ***
+***I'm looking for an internship***
 
-I am a passionate web dev student, driven by curiosity, I love exploring new things. Dream of mastering Nvim...
+I am a passionate web dev student, driven by curiosity, I love exploring new things. Some night I'm dreaming of me using nvim fluently....
 
 ![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
