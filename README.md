@@ -47,7 +47,7 @@ Some night I'm dreaming of me using nvim fluently....
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](www.linkedin.com/in/maxime-bidan)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/maxime-bidan/)
 
 
 Thanks for stopping by ! 
