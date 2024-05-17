@@ -1,5 +1,5 @@
-# Hi, I'm Maxime ! Welcom to my hub ! 👋
-### I'm looking for an internship
+# Hi, I'm Maxime ! Welcome to my hub ! 👋
+*** I'm looking for an internship ***
 
 I am a passionate web dev student, driven by curiosity, I love exploring new things. Dream of mastering Nvim...
 
