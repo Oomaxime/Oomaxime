@@ -20,20 +20,17 @@ I am a passionate web dev student, driven by curiosity, I love exploring new thi
 
 - 🚀 lib & Framework
   - React
-  - Next.js
-  - Tailwinds CSS
+  - Three.js
+  - webGL
 
-- ⚡ Project
-  - Todo liste / Kaban with React & Next.js
+- ⚡ Last Project
+  - TicTacToGame
 
 
 ## 🔭 In the futur I'm planning to try / learn
 
-- Three.js
-- Webgl
 - Shadcn
 - Svelte
-- Socket.io
 - Redis
 - HTMX
 - GO
