@@ -24,7 +24,7 @@ I am a passionate web dev student, driven by curiosity, I love exploring new thi
   - webGL
 
 - ⚡ Last Project
-  - TicTacToGame
+  - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame)
 
 
 ## 🔭 In the futur I'm planning to try / learn
