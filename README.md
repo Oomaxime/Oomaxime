@@ -1,10 +1,9 @@
 # Hi, I'm Maxime ! Welcome to my hub ! 👋
-***I'm looking for an internship***
+***Currently looking for an internship***
 
 I am a passionate web dev student, driven by curiosity, I love exploring new things. Dreaming of mastering nVim motion.
 
-
-![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 
 ## 🚀 About Me
@@ -13,7 +12,7 @@ I am a passionate web dev student, driven by curiosity, I love exploring new thi
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,vite,docker,figma,vscode,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,typescript,vite,docker,figma,vscode,apple)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
