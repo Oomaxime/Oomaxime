@@ -12,7 +12,7 @@ I am a passionate web dev student, driven by curiosity, I love exploring new thi
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,three,nodejs,express,mongodb,three,react,typescript,threejs,three,vite,docker,three,figma,three,vscode,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,typescript,threejs,vite,docker,figma,vscode,apple)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
