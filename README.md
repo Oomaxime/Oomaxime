@@ -1,14 +1,14 @@
 # Hi, I'm Maxime ! Welcome to my hub ! 👋
 ***Currently looking for an internship***
 
-I am a passionate web dev student, driven by curiosity, I love exploring new things. Dreaming of mastering nVim motion.
+I am a passionate web dev student, driven by curiosity, I love exploring and creat new things. Dreaming of mastering nVim motion.
 
 <!-- ![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 
 ## 🚀 About Me
 
-- 📝 I'm currently pursuing my Bachelore's in Web Developpement at HETIC.
+- 📝 I'm pursuing my Bachelore's in Web Developpement at HETIC.
 
 
 ## Tech Stack
