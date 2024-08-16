@@ -18,9 +18,8 @@ I am a passionate web dev student, driven by curiosity, I love exploring and cre
 ## 🌱 Currently Exploring
 
 - 🚀 lib & Framework
-  - React
+  - React / Next.js
   - Three.js
-  - webGL
 
 - ⚡ Last Project
   - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame)
