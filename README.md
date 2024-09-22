@@ -1,14 +1,14 @@
 # Hi, I'm Maxime ! Welcome to my hub ! 👋
-***Currently looking for an internship***
 
-I am a passionate web dev student, driven by curiosity, I love exploring and create new things. Dreaming of mastering nVim motion.
+I am a passionate web dev student, driven by curiosity, I love exploring and create new things.
 
-<!-- ![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+<!--![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
 
 ## 🚀 About Me
 
 - 📝 I'm pursuing my Bachelore's in Web Developpement at HETIC.
+- 💼 Fresh apprenctice at [LeadBay](https://leadbay.ai/) !
 
 
 ## Tech Stack
@@ -25,15 +25,18 @@ I am a passionate web dev student, driven by curiosity, I love exploring and cre
   - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame)
 
 
-## 🔭 In the futur I'm planning to try / learn
+## 🔭 Few things I planning to try / learn
 
 - Shadcn
 - GSAP
-- Svelte
-- Redis
+- Framer
+- Svelte / Svelte Kit
+- Vuejs / Nuxtjs
 - HTMX
 - GO
+- C
 - Rust
+- Linux
   
 <!-- ## 🏆 Achievements
 
