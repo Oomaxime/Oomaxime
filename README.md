@@ -18,8 +18,8 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 ## 🌱 Currently Exploring
 
 - 🚀 Libraries & Frameworks
-  - React / Next.js
-  - Three.js
+  - React
+  - Material UI
 
 - ⚡ Last Project
   - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame)
@@ -33,6 +33,7 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 - Svelte / SvelteKit
 - Vue.js / Nuxt.js
 - HTMX
+- Kotlin
 - Go
 - C
 - Rust
