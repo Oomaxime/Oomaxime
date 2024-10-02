@@ -1,14 +1,14 @@
-# Hi, I'm Maxime ! Welcome to my hub ! 👋
+# Hi, I'm Maxime! Welcome to my hub! 👋
 
-I am a passionate web dev student, driven by curiosity, I love exploring and create new things.
+I am a passionate web dev student, driven by curiosity. I love exploring and creating new things.
 
 <!--![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
 
 ## 🚀 About Me
 
-- 📝 I'm pursuing my Bachelore's in Web Developpement at HETIC.
-- 💼 Fresh apprenctice at [LeadBay](https://leadbay.ai/) !
+- 📝 I'm pursuing my Bachelor's in Web Development at HETIC.
+- 💼 Fresh apprentice at [LeadBay](https://leadbay.ai/)!
 
 
 ## Tech Stack
@@ -17,7 +17,7 @@ I am a passionate web dev student, driven by curiosity, I love exploring and cre
 
 ## 🌱 Currently Exploring
 
-- 🚀 lib & Framework
+- 🚀 Libraries & Frameworks
   - React / Next.js
   - Three.js
 
@@ -25,30 +25,30 @@ I am a passionate web dev student, driven by curiosity, I love exploring and cre
   - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame)
 
 
-## 🔭 Few things I planning to try / learn
+## 🔭 A few things I'm planning to try/learn
 
 - Shadcn
 - GSAP
 - Framer
-- Svelte / Svelte Kit
-- Vuejs / Nuxtjs
+- Svelte / SvelteKit
+- Vue.js / Nuxt.js
 - HTMX
-- GO
+- Go
 - C
 - Rust
 - Linux
   
 <!-- ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration. -->
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open-source projects and celebrated the spirit of collaboration. -->
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/maxime-bidan/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-bidan/)
 
 
-Thanks for stopping by ! 
+Thanks for stopping by!
 
 <!--
 Here are some ideas to get you started:
