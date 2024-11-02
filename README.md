@@ -8,32 +8,34 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 ## 🚀 About Me
 
 - 📝 I'm pursuing my Bachelor's in Web Development at HETIC.
-- 💼 Fresh apprentice at [LeadBay](https://leadbay.ai/)!
+- 💼 Fresh apprentice at [LeadBay](https://leadbay.ai/) 🤟🏼 !
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,typescript,threejs,vite,docker,figma,vscode,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,typescript,vite,docker,figma,vscode,apple)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
 
 - 🚀 Libraries & Frameworks
   - React
+  - Redux
   - Material UI
 
-- ⚡ Last Project
-  - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame)
+<!-- - ⚡ Last Project
+  - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame) -->
 
 
 ## 🔭 A few things I'm planning to try/learn
 
+- Three.js
 - Shadcn
 - GSAP
 - Framer
 - Svelte / SvelteKit
 - Vue.js / Nuxt.js
-- HTMX
 - Kotlin
+- HTMX
 - Go
 - C
 - Rust
