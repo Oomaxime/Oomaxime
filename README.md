@@ -31,7 +31,9 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 - Three.js
 - Shadcn
 - GSAP
-- Framer
+- Framer Motion
+- Rive
+- Expo
 - Svelte / SvelteKit
 - Vue.js / Nuxt.js
 - Kotlin
