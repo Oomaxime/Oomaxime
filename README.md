@@ -4,49 +4,31 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 
 <!--![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Oomaxime&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
-
 ## 🚀 About Me
 
 - 📝 I'm pursuing my Bachelor's in Web Development at HETIC.
 - 💼 Fresh apprentice at [LeadBay](https://leadbay.ai/) 🤟🏼 !
 
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,typescript,vite,docker,figma,apple)](https://skillicons.dev)
-
 
 ## 🌱 Currently Exploring
 
 - 🚀 Libraries & Frameworks
   - React
   - Redux
-  - Material UI
-
-<!-- - ⚡ Last Project
-  - [TicTacToe](https://github.com/Oomaxime/TicTacToeGame) -->
-
 
 ## 🔭 A few things I'm planning to try/learn
 
 - Three.js
-- Shadcn
 - GSAP
 - Framer Motion
 - Rive
 - Expo
 - Svelte / SvelteKit
 - Vue.js / Nuxt.js
-- Kotlin
-- HTMX
-- Go
-- C
 - Rust
-- Linux
-  
-<!-- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open-source projects and celebrated the spirit of collaboration. -->
-
+- Zig
 
 ## 📬 Get in Touch
 
