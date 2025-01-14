@@ -15,7 +15,7 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 ## 🌱 Currently Exploring
 
 - 🚀 Libraries & Frameworks
-  - React
+  - React 
   - Redux
 
 ## 🔭 A few things I'm planning to try/learn
