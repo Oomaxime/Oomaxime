@@ -12,7 +12,7 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,redux,typescript,vite,docker,figma,apple)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+<!--## 🌱 Currently Exploring
 
 - 🚀 Libraries & Frameworks
   - React 
@@ -32,6 +32,6 @@ I am a passionate web dev student, driven by curiosity. I love exploring and cre
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-bidan/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/maxime-bidan/) -->
 
 ![Bottom Down](https://github.com/user-attachments/assets/215350df-9954-456e-9656-4d0458d78e66)
